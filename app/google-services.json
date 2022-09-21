@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "267002601034",
+    "firebase_url": "https://vit-x-fdfa2-default-rtdb.firebaseio.com",
+    "project_id": "vit-x-fdfa2",
+    "storage_bucket": "vit-x-fdfa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267002601034:android:03b81dac6f1f01734f90b3",
+        "android_client_info": {
+          "package_name": "com.example.vit_x"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267002601034-4qen66ummcsi7gr9ve0qgu60b67gq95o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj-V-q6aJ5JH8xlbw9uh9rI0Idwe6m5Zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267002601034-4qen66ummcsi7gr9ve0qgu60b67gq95o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267002601034:android:000b75e36daec8e44f90b3",
+        "android_client_info": {
+          "package_name": "com.example.vit_xadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267002601034-4qen66ummcsi7gr9ve0qgu60b67gq95o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj-V-q6aJ5JH8xlbw9uh9rI0Idwe6m5Zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267002601034-4qen66ummcsi7gr9ve0qgu60b67gq95o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

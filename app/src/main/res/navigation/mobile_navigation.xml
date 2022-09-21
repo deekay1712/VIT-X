@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment android:id="@+id/navigation_home"
+        android:name="com.example.vit_x.ui.home.HomeFragment"
+        android:label="Feed"
+        tools:layout="@layout/fragment_home"/>
+
+    <fragment android:id="@+id/navigation_events"
+        android:name="com.example.vit_x.ui.events.EventsFragment"
+        android:label="Events"
+        tools:layout="@layout/fragment_events"/>
+
+    <fragment android:id="@+id/navigation_add_post"
+        android:name="com.example.vit_x.ui.addPost.AddPostFragment"
+        android:label="Add Post"
+        tools:layout="@layout/fragment_add_post"/>
+
+    <fragment android:id="@+id/navigation_alumni"
+        android:name="com.example.vit_x.ui.alumni.AlumniFragment"
+        android:label="Alumni"
+        tools:layout="@layout/fragment_alumni"/>
+
+    <fragment android:id="@+id/navigation_profile"
+        android:name="com.example.vit_x.ui.profile.ProfileFragment"
+        android:label="Profile"
+        tools:layout="@layout/fragment_profile"/>
+
+</navigation>
